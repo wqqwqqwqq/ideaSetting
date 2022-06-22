@@ -1,0 +1,80 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="576" />
+    <option name="newTranslationDialogX" value="100" />
+    <option name="newTranslationDialogY" value="367" />
+    <option name="pinNewTranslationDialog" value="true" />
+    <histories>
+      <item value="AmazonS3Exception: Found (Service: Amazon S3; Status Code: 302; Error Code: 302 Found; Request ID: null; S3 Extended Request ID: null; Proxy: null)" />
+      <item value="Adds support for Ruby and Ruby on Rails.&#10;Coding assistance (highlighting, completion, navigation, inspections, etc.)&#10;Support for multiple testing frameworks (such as Test::Unit, RSpec, Cucumber)&#10;A visual debugger for Ruby, JS, and CoffeeScript&#10;The Ruby plugin supports Ruby 1.8.x or higher, or JRuby.&#10;Resources:" />
+      <item value="Enhances IDE representation of code changes with refactoring information.&#10;Supports Java and Kotlin.&#10;Folds refactorings in diffs and shows hints with their descriptions.&#10;Detects refactorings in Pull Requests.&#10;Detects refactorings at any specific commit selected in the Git Log tab.&#10;Provides the refactoring history for classes, methods, and fields." />
+      <item value="With this plugin, you can conveniently work with Zeppelin notebooks, run applications with spark-submit, produce and consume messages with Kafka, monitor Spark and Hadoop YARN applications, and work with following file storages:" />
+      <item value="At last, a handy way to save your Autoscroll tofrom Source settings :)  Toggle &quot;Autoscroll to Source&quot;: Crtl-Alt-Shift PAGE UP Toggle &quot;Autoscroll from Source&quot;: Crtl-Alt-Shift PAGE DOWN Save &quot;Autoscroll tofrom Source&quot; settings: Crtl-Alt-Shift END  Use the toggle actions to quickly enable  disable autoscroll settings in the active project.  Save the autoscroll settings to apply them to currently open projects and all projects opened or created in future.  The key bindings can be re-assigned via Settings -&gt; Keymap -&gt; search for &quot;autoscroll&quot;.  Saved settings can be disabled in the &quot;autoscroll.xml&quot; file located in configoptions, if needed." />
+      <item value="current Date" />
+      <item value="retain All" />
+      <item value="global Session Timeout" />
+      <item value="unchecked" />
+      <item value="&quot;@Deprecated&quot; code should not be used&#10; &#10;Code smell&#10; &#10;Minor&#10;java:S1874&#10; &#10;Once deprecated, classes, and interfaces, and their members should be avoided, rather than used, inherited or extended. Deprecation is a warning that the class or interface has been superseded, and will eventually be removed. The deprecation period allows you to make a smooth transition away from the aging, soon-to-be-retired technology.&#10;Noncompliant Code Example" />
+      <item value="ROUND HALF UP" />
+      <item value="HALF UP" />
+      <item value="Collection.isEmpty() should be used to test for emptiness" />
+      <item value="&#10;Local variable and method parameter names should comply with a naming convention&#10; &#10;Code smell&#10; &#10;Minor&#10;java:S117&#10; &#10;Shared naming conventions allow teams to collaborate effectively. This rule raises an issue when a local variable or function parameter name does not match the provided regular expression.&#10;Noncompliant Code Example&#10;With the default regular expression ^[a-z][a-zA-Z0-9]:&#10;public void doSomething(int my_param) {&#10;  int LOCAL;&#10;  ...&#10;}&#10;Compliant Solution&#10;public void doSomething(int myParam) {&#10;  int local;&#10;  ...&#10;}&#10;Exceptions&#10;Loop counters are ignored by this rule.&#10;for (int i_1 = 0; i_1 &lt; limit; i_1++) {   Compliant&#10;   ...&#10;}&#10;as well as one-character catch variables:&#10;try {&#10;...&#10;} catch (Exception e) {  Compliant&#10;}&#10;Parameters&#10;Following parameter values can be set in Rule Settings. In connected mode, server side configuration overrides local settings.&#10;format  &#10;Regular expression used to check the names against.&#10;Current value: ^[a-z][a-zA-Z0-9]&#10;Default value: ^[a-z][a-zA-Z0-9]" />
+      <item value=" JSON parse error: Cannot deserialize value of type `java.util.Date` from String &quot;tsgo&quot;: not a valid representation (error: Failed to parse Date value 'tsgo': Cannot parse date &quot;tsgo&quot;: not compatible with any of standard forms (&quot;yyyy-MM-dd'T'HH:mm:ss.SSSX&quot;, &quot;yyyy-MM-dd'T'HH:mm:ss.SSS&quot;, &quot;EEE, dd MMM yyyy HH:mm:ss zzz&quot;, &quot;yyyy-MM-dd&quot;)); nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.util.Date` from String &quot;tsgo&quot;: not a valid representation (error: Failed to parse Date value 'tsgo': Cannot parse date &quot;tsgo&quot;: not compatible with any of standard forms (&quot;yyyy-MM-dd'T'HH:mm:ss.SSSX&quot;, &quot;yyyy-MM-dd'T'HH:mm:ss.SSS&quot;, &quot;EEE, dd MMM yyyy HH:mm:ss zzz&quot;, &quot;yyyy-MM-dd&quot;))" />
+      <item value="bind Device" />
+      <item value="binding Device" />
+      <item value="Devic" />
+      <item value="binding Devic" />
+      <item value="&#10;SLF4J: Class path contains multiple SLF4J bindings.&#10;SLF4J: Found binding in [jar:file:D:.m2repositorychqoslogbacklogback-classic1.2.10logback-classic-1.2.10.jar!orgslf4jimplStaticLoggerBinder.class]&#10;SLF4J: Found binding in [jar:file:D:.m2repositoryorgapachelogginglog4jlog4j-slf4j-impl2.17.1log4j-slf4j-impl-2.17.1.jar!orgslf4jimplStaticLoggerBinder.class]&#10;SLF4J: See http:www.slf4j.orgcodes.htmlmultiple_bindings for an explanation.&#10;SLF4J: Actual binding is of type [ch.qos.logback.classic.util.ContextSelectorStaticBinder]" />
+      <item value="Could not transfer artifact org.apache.logging.log4j:log4j-bom:pom:2.6.3 fromto maven-default-http-blocker (http:0.0.0.0): Blocked mirror for repositories: [public (http:maven.aliyun.comnexuscontentgroupspublic, default, releases+snapshots)]&#10;" />
+      <item value="org.apache.logging.log4j:log4j-bom:pom:2.6.4 failed to transfer from http:0.0.0.0 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of maven-default-http-blocker has elapsed or updates are forced. Original error: Could not transfer artifact org.apache.logging.log4j:log4j-bom:pom:2.6.4 fromto maven-default-http-blocker (http:0.0.0.0): Blocked mirror for repositories: [public (http:maven.aliyun.comnexuscontentgroupspublic, default, releases+snapshots)]" />
+      <item value="&#10;log4j:WARN No appenders could be found for logger (org.jboss.logging).&#10;log4j:WARN Please initialize the log4j system properly.&#10;log4j:WARN See http:logging.apache.orglog4j1.2faq.htmlnoconfig for more info." />
+      <item value="get More And Less" />
+      <item value="trim" />
+      <item value="lack Num" />
+      <item value="extra Num" />
+      <item value="inventory Num" />
+      <item value="export Num" />
+      <item value="ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console..." />
+      <item value="You need to add dependency of 'poi-ooxml' to your project, and version &gt;= 4.1.2" />
+      <item value="mixes" />
+      <item value="mixs" />
+      <item value="Read timed out" />
+      <item value="read Timeout" />
+      <item value="connect Timeout" />
+      <item value="equip Name With Count" />
+      <item value="move Electricity Sync" />
+      <item value="Sync" />
+      <item value="wait For Die" />
+      <item value="interrupt" />
+      <item value="intern" />
+      <item value="mac" />
+      <item value="bootstrap" />
+      <item value="is Update Last Access" />
+      <item value="supplier" />
+      <item value="under radix 16" />
+      <item value="label Scanning" />
+      <item value="fault Tolerance" />
+      <item value="误差" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="141" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1655796321404" />
+  </component>
+  <component name="Settings">
+    <option name="aliTranslateSettings">
+      <app-key>
+        <option name="appId" value="LTAI5t94yHJmx15YAcMDVqb7" />
+      </app-key>
+    </option>
+    <option name="foldOriginal" value="true" />
+    <option name="keepFormat" value="true" />
+    <option name="translateDocumentation" value="true" />
+    <option name="translator" value="ALI" />
+  </component>
+</application>
