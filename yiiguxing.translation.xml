@@ -3,8 +3,12 @@
     <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="100" />
     <option name="newTranslationDialogY" value="367" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="JRebel enabled automatic compilation for this project. You can disable this setting from Help &gt; JRebel &gt; Configuration &gt; Advanced &gt; Miscellaneous." />
+      <item value="cleanup Multipart" />
+      <item value="set Resolve Lazily" />
+      <item value="set Strict Servlet Compliance" />
+      <item value="resolve Multipart" />
       <item value="AmazonS3Exception: Found (Service: Amazon S3; Status Code: 302; Error Code: 302 Found; Request ID: null; S3 Extended Request ID: null; Proxy: null)" />
       <item value="Adds support for Ruby and Ruby on Rails.&#10;Coding assistance (highlighting, completion, navigation, inspections, etc.)&#10;Support for multiple testing frameworks (such as Test::Unit, RSpec, Cucumber)&#10;A visual debugger for Ruby, JS, and CoffeeScript&#10;The Ruby plugin supports Ruby 1.8.x or higher, or JRuby.&#10;Resources:" />
       <item value="Enhances IDE representation of code changes with refactoring information.&#10;Supports Java and Kotlin.&#10;Folds refactorings in diffs and shows hints with their descriptions.&#10;Detects refactorings in Pull Requests.&#10;Detects refactorings at any specific commit selected in the Git Log tab.&#10;Provides the refactoring history for classes, methods, and fields." />
@@ -50,11 +54,6 @@
       <item value="mac" />
       <item value="bootstrap" />
       <item value="is Update Last Access" />
-      <item value="supplier" />
-      <item value="under radix 16" />
-      <item value="label Scanning" />
-      <item value="fault Tolerance" />
-      <item value="误差" />
     </histories>
     <option name="languageScores">
       <map>
