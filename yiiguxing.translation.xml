@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="576" />
+    <option name="newTranslationDialogWidth" value="570" />
     <option name="newTranslationDialogX" value="100" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="Maven Executor is a plugin for IntelliJ IDEA that provides new tool window with maven run parameters. It is an alternative for the standard Maven Project Tool Window.&#10; &#10;Functionality Toolbar Menu&#10;Execute Goals For Selected Projects - executes goals with a current parameter for selected Maven modules.&#10;Execute Goals For All Projects - always executes goals with a current parameter for all projects or project chosen from Project ComboBox.&#10;Current Maven Run Settings - opens detailed Current Maven Run Settings, more bellow.&#10;Reimport Maven Projects - standard reimport all maven projects action.&#10;Generate Sources and Update Folders For All Projects - standard maven generation sources and updating folders action.&#10;Maven General Settings - opens general Maven Settings.&#10;Save Current Settings as... - saves favorite settings, saving is possible only when Favorite List is visible.&#10;Visible Properties Settings - allows adjusting visible properties to own preferences on Tool Window." />
+      <item value="This plugin is intended to help developers work with tests in maven projects.&#10;Currently the following features are available:&#10;Displaying Surefire and Failsafe test results&#10;Navigating from test results view to specific tests" />
+      <item value="Compares and synchronizes dependency differences between Maven 1.0 projects and IntelliJ IDEA modules. Unlike the Maven plugin for IDEA, this plugin preserves other module settings updating only the dependencies. Adds the following menu items to the Tools menu:&#10;Maven -&gt; IDEA updates the IDEA module with dependencies from the Maven project.&#10; &#10;Maven [- IDEA updates the Maven project with dependencies from the IDEA module.&#10; &#10;Maven [-&gt; IDEA compares the dependency differences.&#10;" />
+      <item value="Overview&#10;Open our customized popup dialog and choose from a variety of context-sensitive destinations, including tree nodes, goals, and tasks. For each destination choose from context-sensitive actions such as go, open, run, and debug.&#10;Say goodbye to bland popup menus and fatigue invoking nested trees. You can configure options under SettingsAppearanceGradle Navigation. Make sure to assign to the popup command to a convenient, unused function key!&#10;Supported Technologies&#10;Gradle, Maven, Android, IntelliJ, JPA, Babel, Webpack, NPM&#10;Features&#10;Destination Popup A popup window is also provided with buttons to either go to tasks or groups in the Gradle tree, or run tasks directly. You can easily customize the content and order of items in the popup. The navigation popup now includes links to various project and module settings, along with Android resource directories, the Maven project tree, and Maven POM files (if they exist in conventional locations)&#10;Menu Items - The GradleMaven Navigation Plugin for IntelliJ adds additional features to the standard Gradle and Maven plugin. You can now swivel between the source editor, the project view, and the Gradle view. A custom popup displays common destinations and user configured tasks and groups. Commands are added to various context menus in the Project Tree, Gradle Tree, and Editor Window.&#10;Goto GradleMaven - project, task, or group&#10;Goto Project - gradle settings or build, source root, or resource root&#10;Gradle Users: This plugin works for both single-project and multi-project Gradle builds." />
+      <item value="Building, RunDebug maven module by mvn.&#10;test class, method, package and module&#10;run main method&#10;run application server: jetty or tomcat, if pom file is selected&#10;add option: config fork mode(from PreferencesMavenImporting)&#10;add a quick switch popup menu for maven build(shortcut: ^M)&#10;add maven build menu to Build main menu(shortcut: ^⌘ + CTPI)&#10;show all dependencies at pom file, otherwise only module dependencies(shortcut: ^⌘U)&#10;quick open pom file by maven artifact(shortcut: ^⌘M)&#10;quick run plugin goals by quick switch menu(shortcut: ^P)" />
+      <item value="Plugin for writing Gauge tests (originally developed by Thoughtworks Inc.). Supports only steps written in Java.&#10;Features:&#10;Basic language parsing and highlighting&#10;Project Creation with Maven and Gradle&#10;Auto completion&#10;Navigation from step to implementation&#10;Quick Fix for unimplemented steps&#10;Execution and Debugging of specs&#10;Support for Concepts&#10;Refactoring support" />
+      <item value="Select an artifactId in pom.xml, right click on the shortcut menu or press the shortcut button Ctrl+Shift+D to open the window, then query all release versions of the dependency online from mvnrepository.com and show&#10;Open the window, type the dependency you want to find directly in the search bar, click Search or press Enter directly. The most similar result will appear in the drop-down menu, then select the version you want.&#10;Support for copying version information or complete dependency information directly to the clipboard" />
       <item value="JRebel enabled automatic compilation for this project. You can disable this setting from Help &gt; JRebel &gt; Configuration &gt; Advanced &gt; Miscellaneous." />
       <item value="cleanup Multipart" />
       <item value="set Resolve Lazily" />
@@ -47,17 +54,10 @@
       <item value="connect Timeout" />
       <item value="equip Name With Count" />
       <item value="move Electricity Sync" />
-      <item value="Sync" />
-      <item value="wait For Die" />
-      <item value="interrupt" />
-      <item value="intern" />
-      <item value="mac" />
-      <item value="bootstrap" />
-      <item value="is Update Last Access" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
+        <entry key="CHINESE" value="158" />
         <entry key="ENGLISH" value="141" />
       </map>
     </option>
