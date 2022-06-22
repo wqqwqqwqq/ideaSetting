@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="1639579475368" type="Image" />
+      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="json" approved="true" type="JSON" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping pattern=".prettierrc" approved="true" type="JSON" />
