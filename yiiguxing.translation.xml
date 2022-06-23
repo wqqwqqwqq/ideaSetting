@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="570" />
-    <option name="newTranslationDialogX" value="100" />
-    <option name="newTranslationDialogY" value="367" />
+    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogX" value="600" />
+    <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="Makes tool window icons colorful. This plugin is based on the ToolWindow Colorful Icons plugin, and adds some additional icons. See Settings &gt; Appearance &amp; Behavior &gt; Extra ToolWindow Colorful Icons to select icons to (de)activate. If you find this plugin helpful, you can buy me a coffee. Thank you!   See changelog and readme on GitHub. Check also my plugins." />
+      <item value="Allows you to quickly locate and jump to a class file for your java file." />
+      <item value="Support for Handlebars and Mustache template languages&#10;Features&#10;Customizable highlighting for the template syntax&#10;Completion for closing tags and braces as well as for HTML tags&#10;Files with the .html extension can be treated as Handlebars or Mustache files&#10;Automatic indentation when typing" />
+      <item value="Allows executing tasks triggered by file modifications" />
+      <item value="Highlighting and validation of XPath, CSS, JavaScript in UI testing APIs for JavaKotlinGroovyPython.&#10;Project scaffolding with popular Selenium libraries.&#10;Page Object Editor with integrated browser and code generator.&#10;Code completion for HTML tags, attributes and CSS properties in tests.&#10;Run Selenoid action in browsers.json.&#10;Line markers and navigation to issue trackers and TMS cases for Allure Framework and Serenity BDD.&#10;Code completion and validation for configuration files of Selenium Grid, Selenoid and Allure Framework.&#10;Line markers with quick navigation to @Step usages in code.&#10;Find usages and code completion for @Feature, @Epic, @Story, @Owner and @Lead usages for Allure Framework.&#10;Enhanced console output: clickable file links, folded stack frames of frameworks." />
       <item value="[2022-06-23 14:26:46] JRebel enabled automatic compilation for this project. You can disable this setting from Help &gt; JRebel &gt; Configuration &gt; Advanced &gt; Miscellaneous." />
       <item value="is Blank If Str" />
       <item value="&#10;[ERROR] 'mirrors.mirror.mirrorOf' for public is missing @ D:\Program Files\apache-maven-3.6.1\conf\settings.xml" />
@@ -49,15 +54,10 @@
       <item value="lack Num" />
       <item value="extra Num" />
       <item value="inventory Num" />
-      <item value="export Num" />
-      <item value="ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console..." />
-      <item value="You need to add dependency of 'poi-ooxml' to your project, and version &gt;= 4.1.2" />
-      <item value="mixes" />
-      <item value="mixs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="158" />
+        <entry key="CHINESE" value="163" />
         <entry key="ENGLISH" value="141" />
       </map>
     </option>
