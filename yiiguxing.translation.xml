@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="prevent a crash with the new IntelliJ UI (currently in preview) for IntelliJ 2022.2+ EAP (222.2889.14+).&#10;rework Dependencies icons.&#10;rework Gradle icons." />
       <item value="snapshots" />
       <item value="ge" />
       <item value="herder" />
@@ -53,11 +54,10 @@
       <item value="Could not transfer artifact org.apache.logging.log4j:log4j-bom:pom:2.6.3 fromto maven-default-http-blocker (http:0.0.0.0): Blocked mirror for repositories: [public (http:maven.aliyun.comnexuscontentgroupspublic, default, releases+snapshots)]&#10;" />
       <item value="org.apache.logging.log4j:log4j-bom:pom:2.6.4 failed to transfer from http:0.0.0.0 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of maven-default-http-blocker has elapsed or updates are forced. Original error: Could not transfer artifact org.apache.logging.log4j:log4j-bom:pom:2.6.4 fromto maven-default-http-blocker (http:0.0.0.0): Blocked mirror for repositories: [public (http:maven.aliyun.comnexuscontentgroupspublic, default, releases+snapshots)]" />
       <item value="&#10;log4j:WARN No appenders could be found for logger (org.jboss.logging).&#10;log4j:WARN Please initialize the log4j system properly.&#10;log4j:WARN See http:logging.apache.orglog4j1.2faq.htmlnoconfig for more info." />
-      <item value="get More And Less" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
+        <entry key="CHINESE" value="164" />
         <entry key="ENGLISH" value="141" />
       </map>
     </option>
