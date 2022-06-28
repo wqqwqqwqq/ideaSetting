@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="snapshots" />
       <item value="ge" />
       <item value="herder" />
       <item value="Hander" />
@@ -53,7 +54,6 @@
       <item value="org.apache.logging.log4j:log4j-bom:pom:2.6.4 failed to transfer from http:0.0.0.0 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of maven-default-http-blocker has elapsed or updates are forced. Original error: Could not transfer artifact org.apache.logging.log4j:log4j-bom:pom:2.6.4 fromto maven-default-http-blocker (http:0.0.0.0): Blocked mirror for repositories: [public (http:maven.aliyun.comnexuscontentgroupspublic, default, releases+snapshots)]" />
       <item value="&#10;log4j:WARN No appenders could be found for logger (org.jboss.logging).&#10;log4j:WARN Please initialize the log4j system properly.&#10;log4j:WARN See http:logging.apache.orglog4j1.2faq.htmlnoconfig for more info." />
       <item value="get More And Less" />
-      <item value="trim" />
     </histories>
     <option name="languageScores">
       <map>
