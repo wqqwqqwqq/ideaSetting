@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="Parent pom providing dependency and plugin management for applications built with Maven" />
+      <item value="is Thread Run" />
       <item value="prevent a crash with the new IntelliJ UI (currently in preview) for IntelliJ 2022.2+ EAP (222.2889.14+).&#10;rework Dependencies icons.&#10;rework Gradle icons." />
       <item value="snapshots" />
       <item value="ge" />
@@ -52,8 +54,6 @@
       <item value="binding Devic" />
       <item value="&#10;SLF4J: Class path contains multiple SLF4J bindings.&#10;SLF4J: Found binding in [jar:file:D:.m2repositorychqoslogbacklogback-classic1.2.10logback-classic-1.2.10.jar!orgslf4jimplStaticLoggerBinder.class]&#10;SLF4J: Found binding in [jar:file:D:.m2repositoryorgapachelogginglog4jlog4j-slf4j-impl2.17.1log4j-slf4j-impl-2.17.1.jar!orgslf4jimplStaticLoggerBinder.class]&#10;SLF4J: See http:www.slf4j.orgcodes.htmlmultiple_bindings for an explanation.&#10;SLF4J: Actual binding is of type [ch.qos.logback.classic.util.ContextSelectorStaticBinder]" />
       <item value="Could not transfer artifact org.apache.logging.log4j:log4j-bom:pom:2.6.3 fromto maven-default-http-blocker (http:0.0.0.0): Blocked mirror for repositories: [public (http:maven.aliyun.comnexuscontentgroupspublic, default, releases+snapshots)]&#10;" />
-      <item value="org.apache.logging.log4j:log4j-bom:pom:2.6.4 failed to transfer from http:0.0.0.0 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of maven-default-http-blocker has elapsed or updates are forced. Original error: Could not transfer artifact org.apache.logging.log4j:log4j-bom:pom:2.6.4 fromto maven-default-http-blocker (http:0.0.0.0): Blocked mirror for repositories: [public (http:maven.aliyun.comnexuscontentgroupspublic, default, releases+snapshots)]" />
-      <item value="&#10;log4j:WARN No appenders could be found for logger (org.jboss.logging).&#10;log4j:WARN Please initialize the log4j system properly.&#10;log4j:WARN See http:logging.apache.orglog4j1.2faq.htmlnoconfig for more info." />
     </histories>
     <option name="languageScores">
       <map>
