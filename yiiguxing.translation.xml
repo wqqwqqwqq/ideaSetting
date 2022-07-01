@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="contains" />
+      <item value="contains Key" />
       <item value=" Invocation of init method failed; nested exception is java.lang.NoClassDefFoundError: ioappmodulesjobutilsScheduleUtils" />
       <item value="Parent pom providing dependency and plugin management for applications built with Maven" />
       <item value="is Thread Run" />
@@ -52,8 +54,6 @@
       <item value="bind Device" />
       <item value="binding Device" />
       <item value="Devic" />
-      <item value="binding Devic" />
-      <item value="&#10;SLF4J: Class path contains multiple SLF4J bindings.&#10;SLF4J: Found binding in [jar:file:D:.m2repositorychqoslogbacklogback-classic1.2.10logback-classic-1.2.10.jar!orgslf4jimplStaticLoggerBinder.class]&#10;SLF4J: Found binding in [jar:file:D:.m2repositoryorgapachelogginglog4jlog4j-slf4j-impl2.17.1log4j-slf4j-impl-2.17.1.jar!orgslf4jimplStaticLoggerBinder.class]&#10;SLF4J: See http:www.slf4j.orgcodes.htmlmultiple_bindings for an explanation.&#10;SLF4J: Actual binding is of type [ch.qos.logback.classic.util.ContextSelectorStaticBinder]" />
     </histories>
     <option name="languageScores">
       <map>
