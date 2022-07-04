@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="GROUP CONCAT" />
       <item value="contains" />
       <item value="contains Key" />
       <item value=" Invocation of init method failed; nested exception is java.lang.NoClassDefFoundError: ioappmodulesjobutilsScheduleUtils" />
@@ -53,7 +54,6 @@
       <item value=" JSON parse error: Cannot deserialize value of type `java.util.Date` from String &quot;tsgo&quot;: not a valid representation (error: Failed to parse Date value 'tsgo': Cannot parse date &quot;tsgo&quot;: not compatible with any of standard forms (&quot;yyyy-MM-dd'T'HH:mm:ss.SSSX&quot;, &quot;yyyy-MM-dd'T'HH:mm:ss.SSS&quot;, &quot;EEE, dd MMM yyyy HH:mm:ss zzz&quot;, &quot;yyyy-MM-dd&quot;)); nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.util.Date` from String &quot;tsgo&quot;: not a valid representation (error: Failed to parse Date value 'tsgo': Cannot parse date &quot;tsgo&quot;: not compatible with any of standard forms (&quot;yyyy-MM-dd'T'HH:mm:ss.SSSX&quot;, &quot;yyyy-MM-dd'T'HH:mm:ss.SSS&quot;, &quot;EEE, dd MMM yyyy HH:mm:ss zzz&quot;, &quot;yyyy-MM-dd&quot;))" />
       <item value="bind Device" />
       <item value="binding Device" />
-      <item value="Devic" />
     </histories>
     <option name="languageScores">
       <map>
