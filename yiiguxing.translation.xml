@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="save Batch Equip In" />
+      <item value="expire Batch Equip" />
+      <item value="save Batch Equip Out" />
+      <item value="confirm Ex Warehouse" />
       <item value="GROUP CONCAT" />
       <item value="contains" />
       <item value="contains Key" />
@@ -50,10 +54,6 @@
       <item value="ROUND HALF UP" />
       <item value="HALF UP" />
       <item value="Collection.isEmpty() should be used to test for emptiness" />
-      <item value="&#10;Local variable and method parameter names should comply with a naming convention&#10; &#10;Code smell&#10; &#10;Minor&#10;java:S117&#10; &#10;Shared naming conventions allow teams to collaborate effectively. This rule raises an issue when a local variable or function parameter name does not match the provided regular expression.&#10;Noncompliant Code Example&#10;With the default regular expression ^[a-z][a-zA-Z0-9]:&#10;public void doSomething(int my_param) {&#10;  int LOCAL;&#10;  ...&#10;}&#10;Compliant Solution&#10;public void doSomething(int myParam) {&#10;  int local;&#10;  ...&#10;}&#10;Exceptions&#10;Loop counters are ignored by this rule.&#10;for (int i_1 = 0; i_1 &lt; limit; i_1++) {   Compliant&#10;   ...&#10;}&#10;as well as one-character catch variables:&#10;try {&#10;...&#10;} catch (Exception e) {  Compliant&#10;}&#10;Parameters&#10;Following parameter values can be set in Rule Settings. In connected mode, server side configuration overrides local settings.&#10;format  &#10;Regular expression used to check the names against.&#10;Current value: ^[a-z][a-zA-Z0-9]&#10;Default value: ^[a-z][a-zA-Z0-9]" />
-      <item value=" JSON parse error: Cannot deserialize value of type `java.util.Date` from String &quot;tsgo&quot;: not a valid representation (error: Failed to parse Date value 'tsgo': Cannot parse date &quot;tsgo&quot;: not compatible with any of standard forms (&quot;yyyy-MM-dd'T'HH:mm:ss.SSSX&quot;, &quot;yyyy-MM-dd'T'HH:mm:ss.SSS&quot;, &quot;EEE, dd MMM yyyy HH:mm:ss zzz&quot;, &quot;yyyy-MM-dd&quot;)); nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.util.Date` from String &quot;tsgo&quot;: not a valid representation (error: Failed to parse Date value 'tsgo': Cannot parse date &quot;tsgo&quot;: not compatible with any of standard forms (&quot;yyyy-MM-dd'T'HH:mm:ss.SSSX&quot;, &quot;yyyy-MM-dd'T'HH:mm:ss.SSS&quot;, &quot;EEE, dd MMM yyyy HH:mm:ss zzz&quot;, &quot;yyyy-MM-dd&quot;))" />
-      <item value="bind Device" />
-      <item value="binding Device" />
     </histories>
     <option name="languageScores">
       <map>
