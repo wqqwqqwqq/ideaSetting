@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="Handling" />
       <item value="save Batch Equip In" />
       <item value="expire Batch Equip" />
       <item value="save Batch Equip Out" />
@@ -53,7 +54,6 @@
       <item value="&quot;@Deprecated&quot; code should not be used&#10; &#10;Code smell&#10; &#10;Minor&#10;java:S1874&#10; &#10;Once deprecated, classes, and interfaces, and their members should be avoided, rather than used, inherited or extended. Deprecation is a warning that the class or interface has been superseded, and will eventually be removed. The deprecation period allows you to make a smooth transition away from the aging, soon-to-be-retired technology.&#10;Noncompliant Code Example" />
       <item value="ROUND HALF UP" />
       <item value="HALF UP" />
-      <item value="Collection.isEmpty() should be used to test for emptiness" />
     </histories>
     <option name="languageScores">
       <map>
