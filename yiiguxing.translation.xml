@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="array Find Str" />
+      <item value="role Id List" />
       <item value=" nested exception is org.apache.ibatis.builder.BuilderException: The expression 'list' evaluated to a null value." />
       <item value="SYSTEM IN" />
       <item value="Handling" />
@@ -52,8 +54,6 @@
       <item value="current Date" />
       <item value="retain All" />
       <item value="global Session Timeout" />
-      <item value="unchecked" />
-      <item value="&quot;@Deprecated&quot; code should not be used&#10; &#10;Code smell&#10; &#10;Minor&#10;java:S1874&#10; &#10;Once deprecated, classes, and interfaces, and their members should be avoided, rather than used, inherited or extended. Deprecation is a warning that the class or interface has been superseded, and will eventually be removed. The deprecation period allows you to make a smooth transition away from the aging, soon-to-be-retired technology.&#10;Noncompliant Code Example" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,7 +68,7 @@
   <component name="Settings">
     <option name="aliTranslateSettings">
       <app-key>
-        <option name="appId" value="LTAI5t94yHJmx15YAcMDVqb7" />
+        <option name="appId" value="LTAI5tG4FQD7W2HgToiq6Qqz" />
       </app-key>
     </option>
     <option name="foldOriginal" value="true" />
