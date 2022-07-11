@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="SAMEORIGIN" />
+      <item value="nosniff" />
       <item value="array Find Str" />
       <item value="role Id List" />
       <item value=" nested exception is org.apache.ibatis.builder.BuilderException: The expression 'list' evaluated to a null value." />
@@ -52,8 +54,6 @@
       <item value="With this plugin, you can conveniently work with Zeppelin notebooks, run applications with spark-submit, produce and consume messages with Kafka, monitor Spark and Hadoop YARN applications, and work with following file storages:" />
       <item value="At last, a handy way to save your Autoscroll tofrom Source settings :)  Toggle &quot;Autoscroll to Source&quot;: Crtl-Alt-Shift PAGE UP Toggle &quot;Autoscroll from Source&quot;: Crtl-Alt-Shift PAGE DOWN Save &quot;Autoscroll tofrom Source&quot; settings: Crtl-Alt-Shift END  Use the toggle actions to quickly enable  disable autoscroll settings in the active project.  Save the autoscroll settings to apply them to currently open projects and all projects opened or created in future.  The key bindings can be re-assigned via Settings -&gt; Keymap -&gt; search for &quot;autoscroll&quot;.  Saved settings can be disabled in the &quot;autoscroll.xml&quot; file located in configoptions, if needed." />
       <item value="current Date" />
-      <item value="retain All" />
-      <item value="global Session Timeout" />
     </histories>
     <option name="languageScores">
       <map>
