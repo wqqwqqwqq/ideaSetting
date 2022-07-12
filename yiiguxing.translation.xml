@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="Failed to bind properties under 'spring.datasource.type' to java.lang.Class&lt;javax.sql.DataSource&gt;:&#10;&#10;    Property: spring.datasource.type&#10;    Value: com.alibaba.druid.pool.DruidDataSource&#10;    Origin: class path resource [application.yml] - 8:11&#10;    Reason: failed to convert java.lang.String to java.lang.Class&lt;javax.sql.DataSource&gt; (caused by java.lang.ClassNotFoundException: com.alibaba.druid.pool.DruidDataSource)&#10;&#10;Action:&#10;&#10;Update your application's configuration" />
+      <item value="The POM for com.alibaba:druid:jar:1.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details&#10;&#10;" />
       <item value="String" />
       <item value="Udp Listener" />
       <item value="close Device" />
@@ -52,8 +54,6 @@
       <item value="set Strict Servlet Compliance" />
       <item value="resolve Multipart" />
       <item value="AmazonS3Exception: Found (Service: Amazon S3; Status Code: 302; Error Code: 302 Found; Request ID: null; S3 Extended Request ID: null; Proxy: null)" />
-      <item value="Adds support for Ruby and Ruby on Rails.&#10;Coding assistance (highlighting, completion, navigation, inspections, etc.)&#10;Support for multiple testing frameworks (such as Test::Unit, RSpec, Cucumber)&#10;A visual debugger for Ruby, JS, and CoffeeScript&#10;The Ruby plugin supports Ruby 1.8.x or higher, or JRuby.&#10;Resources:" />
-      <item value="Enhances IDE representation of code changes with refactoring information.&#10;Supports Java and Kotlin.&#10;Folds refactorings in diffs and shows hints with their descriptions.&#10;Detects refactorings in Pull Requests.&#10;Detects refactorings at any specific commit selected in the Git Log tab.&#10;Provides the refactoring history for classes, methods, and fields." />
     </histories>
     <option name="languageScores">
       <map>
