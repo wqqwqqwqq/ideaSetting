@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="String" />
+      <item value="Udp Listener" />
+      <item value="close Device" />
       <item value="SAMEORIGIN" />
       <item value="nosniff" />
       <item value="array Find Str" />
@@ -51,9 +54,6 @@
       <item value="AmazonS3Exception: Found (Service: Amazon S3; Status Code: 302; Error Code: 302 Found; Request ID: null; S3 Extended Request ID: null; Proxy: null)" />
       <item value="Adds support for Ruby and Ruby on Rails.&#10;Coding assistance (highlighting, completion, navigation, inspections, etc.)&#10;Support for multiple testing frameworks (such as Test::Unit, RSpec, Cucumber)&#10;A visual debugger for Ruby, JS, and CoffeeScript&#10;The Ruby plugin supports Ruby 1.8.x or higher, or JRuby.&#10;Resources:" />
       <item value="Enhances IDE representation of code changes with refactoring information.&#10;Supports Java and Kotlin.&#10;Folds refactorings in diffs and shows hints with their descriptions.&#10;Detects refactorings in Pull Requests.&#10;Detects refactorings at any specific commit selected in the Git Log tab.&#10;Provides the refactoring history for classes, methods, and fields." />
-      <item value="With this plugin, you can conveniently work with Zeppelin notebooks, run applications with spark-submit, produce and consume messages with Kafka, monitor Spark and Hadoop YARN applications, and work with following file storages:" />
-      <item value="At last, a handy way to save your Autoscroll tofrom Source settings :)  Toggle &quot;Autoscroll to Source&quot;: Crtl-Alt-Shift PAGE UP Toggle &quot;Autoscroll from Source&quot;: Crtl-Alt-Shift PAGE DOWN Save &quot;Autoscroll tofrom Source&quot; settings: Crtl-Alt-Shift END  Use the toggle actions to quickly enable  disable autoscroll settings in the active project.  Save the autoscroll settings to apply them to currently open projects and all projects opened or created in future.  The key bindings can be re-assigned via Settings -&gt; Keymap -&gt; search for &quot;autoscroll&quot;.  Saved settings can be disabled in the &quot;autoscroll.xml&quot; file located in configoptions, if needed." />
-      <item value="current Date" />
     </histories>
     <option name="languageScores">
       <map>
