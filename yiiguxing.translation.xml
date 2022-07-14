@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="Calibri" />
       <item value="Failed to bind properties under 'spring.datasource.type' to java.lang.Class&lt;javax.sql.DataSource&gt;:&#10;&#10;    Property: spring.datasource.type&#10;    Value: com.alibaba.druid.pool.DruidDataSource&#10;    Origin: class path resource [application.yml] - 8:11&#10;    Reason: failed to convert java.lang.String to java.lang.Class&lt;javax.sql.DataSource&gt; (caused by java.lang.ClassNotFoundException: com.alibaba.druid.pool.DruidDataSource)&#10;&#10;Action:&#10;&#10;Update your application's configuration" />
       <item value="The POM for com.alibaba:druid:jar:1.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details&#10;&#10;" />
       <item value="String" />
@@ -53,7 +54,6 @@
       <item value="set Resolve Lazily" />
       <item value="set Strict Servlet Compliance" />
       <item value="resolve Multipart" />
-      <item value="AmazonS3Exception: Found (Service: Amazon S3; Status Code: 302; Error Code: 302 Found; Request ID: null; S3 Extended Request ID: null; Proxy: null)" />
     </histories>
     <option name="languageScores">
       <map>
