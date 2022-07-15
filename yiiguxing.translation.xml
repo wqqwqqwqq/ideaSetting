@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="Controls if the Cell should be auto-sized" />
+      <item value="location Ref" />
       <item value="DEFAULT WINDOW SIZE" />
       <item value="is Write Key As Head" />
       <item value="Excel Reader" />
@@ -52,8 +54,6 @@
       <item value="Building, RunDebug maven module by mvn.&#10;test class, method, package and module&#10;run main method&#10;run application server: jetty or tomcat, if pom file is selected&#10;add option: config fork mode(from PreferencesMavenImporting)&#10;add a quick switch popup menu for maven build(shortcut: ^M)&#10;add maven build menu to Build main menu(shortcut: ^⌘ + CTPI)&#10;show all dependencies at pom file, otherwise only module dependencies(shortcut: ^⌘U)&#10;quick open pom file by maven artifact(shortcut: ^⌘M)&#10;quick run plugin goals by quick switch menu(shortcut: ^P)" />
       <item value="Plugin for writing Gauge tests (originally developed by Thoughtworks Inc.). Supports only steps written in Java.&#10;Features:&#10;Basic language parsing and highlighting&#10;Project Creation with Maven and Gradle&#10;Auto completion&#10;Navigation from step to implementation&#10;Quick Fix for unimplemented steps&#10;Execution and Debugging of specs&#10;Support for Concepts&#10;Refactoring support" />
       <item value="Select an artifactId in pom.xml, right click on the shortcut menu or press the shortcut button Ctrl+Shift+D to open the window, then query all release versions of the dependency online from mvnrepository.com and show&#10;Open the window, type the dependency you want to find directly in the search bar, click Search or press Enter directly. The most similar result will appear in the drop-down menu, then select the version you want.&#10;Support for copying version information or complete dependency information directly to the clipboard" />
-      <item value="JRebel enabled automatic compilation for this project. You can disable this setting from Help &gt; JRebel &gt; Configuration &gt; Advanced &gt; Miscellaneous." />
-      <item value="cleanup Multipart" />
     </histories>
     <option name="languageScores">
       <map>
