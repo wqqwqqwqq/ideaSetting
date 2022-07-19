@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogWidth" value="562" />
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="detected dubious ownership in repository at 'D:git-workspacezhtj' To add an exception for this directory, call: git config --global --add safe.directory D:git-workspacezhtj Set the environment variable GIT_TEST_DEBUG_UNSAFE_DIRECTORIES=true and run again for more information." />
       <item value="11:44:27.179: [zhtj] git -c credential.helper= -c core.quotepath=false -c log.showSignature=false fetch origin --recurse-submodules=no --progress --prune&#10;fatal: detected dubious ownership in repository at 'D:git-workspacezhtj'&#10;To add an exception for this directory, call:&#10;&#9;git config --global --add safe.directory D:git-workspacezhtj&#10;Set the environment variable GIT_TEST_DEBUG_UNSAFE_DIRECTORIES=true and run&#10;again for more information." />
       <item value="test Compile" />
       <item value="set Wrap Text" />
@@ -53,11 +54,10 @@
       <item value="1 problem was encountered while building the effective settings" />
       <item value="summary" />
       <item value="Maven Executor is a plugin for IntelliJ IDEA that provides new tool window with maven run parameters. It is an alternative for the standard Maven Project Tool Window.&#10; &#10;Functionality Toolbar Menu&#10;Execute Goals For Selected Projects - executes goals with a current parameter for selected Maven modules.&#10;Execute Goals For All Projects - always executes goals with a current parameter for all projects or project chosen from Project ComboBox.&#10;Current Maven Run Settings - opens detailed Current Maven Run Settings, more bellow.&#10;Reimport Maven Projects - standard reimport all maven projects action.&#10;Generate Sources and Update Folders For All Projects - standard maven generation sources and updating folders action.&#10;Maven General Settings - opens general Maven Settings.&#10;Save Current Settings as... - saves favorite settings, saving is possible only when Favorite List is visible.&#10;Visible Properties Settings - allows adjusting visible properties to own preferences on Tool Window." />
-      <item value="This plugin is intended to help developers work with tests in maven projects.&#10;Currently the following features are available:&#10;Displaying Surefire and Failsafe test results&#10;Navigating from test results view to specific tests" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="164" />
+        <entry key="CHINESE" value="165" />
         <entry key="ENGLISH" value="141" />
       </map>
     </option>
