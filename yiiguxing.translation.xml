@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="TelnetClient telnet = new TelnetClient();&#10;&#9;&#9;telnet.connect(ip, port);" />
+      <item value="Returns the string representation of the telnet protocol command corresponding to the given command code." />
       <item value=" NOTE The range above incorrectly allows U+000B&#10;&#9;&#9;&#9;&#9; in addition to the HTML space characters; but&#10;&#9;&#9;&#9;&#9; that's not a problem in practice because HTML&#10;&#9;&#9;&#9;&#9; and XML parsers will both catch any U+000B&#10;&#9;&#9;&#9;&#9; and report an error for it before that pattern&#10;&#9;&#9;&#9;&#9; ever gets evaluated." />
       <item value="not Allowed" />
       <item value="detected dubious ownership in repository at 'D:git-workspacezhtj' To add an exception for this directory, call: git config --global --add safe.directory D:git-workspacezhtj Set the environment variable GIT_TEST_DEBUG_UNSAFE_DIRECTORIES=true and run again for more information." />
@@ -52,8 +54,6 @@
       <item value="Highlighting and validation of XPath, CSS, JavaScript in UI testing APIs for JavaKotlinGroovyPython.&#10;Project scaffolding with popular Selenium libraries.&#10;Page Object Editor with integrated browser and code generator.&#10;Code completion for HTML tags, attributes and CSS properties in tests.&#10;Run Selenoid action in browsers.json.&#10;Line markers and navigation to issue trackers and TMS cases for Allure Framework and Serenity BDD.&#10;Code completion and validation for configuration files of Selenium Grid, Selenoid and Allure Framework.&#10;Line markers with quick navigation to @Step usages in code.&#10;Find usages and code completion for @Feature, @Epic, @Story, @Owner and @Lead usages for Allure Framework.&#10;Enhanced console output: clickable file links, folded stack frames of frameworks." />
       <item value="[2022-06-23 14:26:46] JRebel enabled automatic compilation for this project. You can disable this setting from Help &gt; JRebel &gt; Configuration &gt; Advanced &gt; Miscellaneous." />
       <item value="is Blank If Str" />
-      <item value="&#10;[ERROR] 'mirrors.mirror.mirrorOf' for public is missing @ D:\Program Files\apache-maven-3.6.1\conf\settings.xml" />
-      <item value="1 problem was encountered while building the effective settings" />
     </histories>
     <option name="languageScores">
       <map>
