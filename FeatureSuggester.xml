@@ -1,0 +1,46 @@
+<application>
+  <component name="FeatureSuggesterSettings">
+    <option name="suggestionLastShownTime">
+      <map>
+        <entry key="Completion" value="1656903049218" />
+        <entry key="Edit breakpoint" value="1655877191608" />
+        <entry key="File structure" value="1657869372458" />
+        <entry key="Paste from history" value="1657791194082" />
+      </map>
+    </option>
+    <option name="workingDays">
+      <list>
+        <option value="1655772367659" />
+        <option value="1655859878404" />
+        <option value="1655948868133" />
+        <option value="1656032108386" />
+        <option value="1656291813806" />
+        <option value="1656378267928" />
+        <option value="1656464028656" />
+        <option value="1656550619963" />
+        <option value="1656637800154" />
+        <option value="1656763267604" />
+        <option value="1656848549567" />
+        <option value="1656896492476" />
+        <option value="1656983086825" />
+        <option value="1657069392766" />
+        <option value="1657155882508" />
+        <option value="1657249618596" />
+        <option value="1657367145259" />
+        <option value="1657438202773" />
+        <option value="1657507692481" />
+        <option value="1657587311350" />
+        <option value="1657676600919" />
+        <option value="1657760595084" />
+        <option value="1657848206211" />
+        <option value="1657942209755" />
+        <option value="1658063784238" />
+        <option value="1658105724521" />
+        <option value="1658192508009" />
+        <option value="1658279950184" />
+        <option value="1658365518506" />
+        <option value="1658451142770" />
+      </list>
+    </option>
+  </component>
+</application>
