@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="maintenance List" />
+      <item value="maintain Time Or Due Time" />
       <item value="This theme brings colors from the Xcode Dark theme to IntelliJ.  To install:&#10;Go to Settings (Preferences) | Plugins, find the theme plugin, and install it&#10;Restart the IDE&#10;Go to Settings (Preferences) | Appearance &amp; Behavior | Appearance and select Xcode-Dark in the Theme dropdow" />
       <item value="objectweb" />
       <item value="Power" />
@@ -52,8 +54,6 @@
       <item value="snapshots" />
       <item value="ge" />
       <item value="herder" />
-      <item value="Hander" />
-      <item value="Makes tool window icons colorful. This plugin is based on the ToolWindow Colorful Icons plugin, and adds some additional icons. See Settings &gt; Appearance &amp; Behavior &gt; Extra ToolWindow Colorful Icons to select icons to (de)activate. If you find this plugin helpful, you can buy me a coffee. Thank you!   See changelog and readme on GitHub. Check also my plugins." />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,7 +63,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658114327516" />
+    <option name="lastTrimTime" value="1658558872967" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
