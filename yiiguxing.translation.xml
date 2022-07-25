@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="Autowired" />
       <item value="maintenance List" />
       <item value="maintain Time Or Due Time" />
       <item value="This theme brings colors from the Xcode Dark theme to IntelliJ.  To install:&#10;Go to Settings (Preferences) | Plugins, find the theme plugin, and install it&#10;Restart the IDE&#10;Go to Settings (Preferences) | Appearance &amp; Behavior | Appearance and select Xcode-Dark in the Theme dropdow" />
@@ -53,12 +54,11 @@
       <item value="prevent a crash with the new IntelliJ UI (currently in preview) for IntelliJ 2022.2+ EAP (222.2889.14+).&#10;rework Dependencies icons.&#10;rework Gradle icons." />
       <item value="snapshots" />
       <item value="ge" />
-      <item value="herder" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="ENGLISH" value="143" />
       </map>
     </option>
   </component>
