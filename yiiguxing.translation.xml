@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value=" Unrecognized Windows Sockets error: 10106: socket" />
       <item value="schedule job log" />
       <item value="1532275150814212098" />
       <item value="estimate Return Time" />
@@ -54,7 +55,6 @@
       <item value="save Batch Equip In" />
       <item value="expire Batch Equip" />
       <item value="save Batch Equip Out" />
-      <item value="confirm Ex Warehouse" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658558872967" />
+    <option name="lastTrimTime" value="1658992933670" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
