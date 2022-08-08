@@ -22,6 +22,10 @@
           <option name="url" value="http://39.106.89.187:8808/zhjb/app-smart-policing.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://39.106.89.187:8808/javacs/waremanger.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\work-file" />
