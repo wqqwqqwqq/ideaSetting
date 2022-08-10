@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="pranswer" />
+      <item value="offer" />
+      <item value="answer" />
+      <item value="create Answer" />
+      <item value="set Local Description" />
+      <item value="set Remote Description" />
       <item value="handle Remote Offer" />
       <item value="Golang" />
       <item value=" 3.2 Broadcast（from server）: user joined &amp; user leaved" />
@@ -49,12 +55,6 @@
       <item value="This theme brings colors from the Xcode Dark theme to IntelliJ.  To install:&#10;Go to Settings (Preferences) | Plugins, find the theme plugin, and install it&#10;Restart the IDE&#10;Go to Settings (Preferences) | Appearance &amp; Behavior | Appearance and select Xcode-Dark in the Theme dropdow" />
       <item value="objectweb" />
       <item value="Power" />
-      <item value="push Power Data To Client" />
-      <item value="Response" />
-      <item value="is Connected" />
-      <item value="TelnetClient telnet = new TelnetClient();&#10;&#9;&#9;telnet.connect(ip, port);" />
-      <item value="Returns the string representation of the telnet protocol command corresponding to the given command code." />
-      <item value=" NOTE The range above incorrectly allows U+000B&#10;&#9;&#9;&#9;&#9; in addition to the HTML space characters; but&#10;&#9;&#9;&#9;&#9; that's not a problem in practice because HTML&#10;&#9;&#9;&#9;&#9; and XML parsers will both catch any U+000B&#10;&#9;&#9;&#9;&#9; and report an error for it before that pattern&#10;&#9;&#9;&#9;&#9; ever gets evaluated." />
     </histories>
     <option name="languageScores">
       <map>
