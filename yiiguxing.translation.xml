@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="handle Remote Offer" />
+      <item value="Golang" />
+      <item value=" 3.2 Broadcast（from server）: user joined &amp; user leaved" />
+      <item value="```shell&#10; cd RTCSignalServer&#10; source env.sh &#10; make" />
+      <item value="A simple signal server written in Golang based on  [socket.io](https:socket.io). Support simple room management and message exchange." />
+      <item value="playsinline" />
+      <item value="send Candidate" />
       <item value="add Ice Candidate" />
       <item value="peer Connection" />
       <item value="peer Started" />
@@ -48,13 +55,6 @@
       <item value="TelnetClient telnet = new TelnetClient();&#10;&#9;&#9;telnet.connect(ip, port);" />
       <item value="Returns the string representation of the telnet protocol command corresponding to the given command code." />
       <item value=" NOTE The range above incorrectly allows U+000B&#10;&#9;&#9;&#9;&#9; in addition to the HTML space characters; but&#10;&#9;&#9;&#9;&#9; that's not a problem in practice because HTML&#10;&#9;&#9;&#9;&#9; and XML parsers will both catch any U+000B&#10;&#9;&#9;&#9;&#9; and report an error for it before that pattern&#10;&#9;&#9;&#9;&#9; ever gets evaluated." />
-      <item value="not Allowed" />
-      <item value="detected dubious ownership in repository at 'D:git-workspacezhtj' To add an exception for this directory, call: git config --global --add safe.directory D:git-workspacezhtj Set the environment variable GIT_TEST_DEBUG_UNSAFE_DIRECTORIES=true and run again for more information." />
-      <item value="11:44:27.179: [zhtj] git -c credential.helper= -c core.quotepath=false -c log.showSignature=false fetch origin --recurse-submodules=no --progress --prune&#10;fatal: detected dubious ownership in repository at 'D:git-workspacezhtj'&#10;To add an exception for this directory, call:&#10;&#9;git config --global --add safe.directory D:git-workspacezhtj&#10;Set the environment variable GIT_TEST_DEBUG_UNSAFE_DIRECTORIES=true and run&#10;again for more information." />
-      <item value="test Compile" />
-      <item value="set Wrap Text" />
-      <item value="set Shrink To Fit" />
-      <item value="set Font Height In Points" />
     </histories>
     <option name="languageScores">
       <map>
