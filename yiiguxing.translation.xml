@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="add Ice Candidate" />
       <item value="peer Connection" />
       <item value="peer Started" />
       <item value="The remote endpoint was in state [TEXT_FULL_WRITING] which is an invalid state for called method" />
@@ -54,7 +55,6 @@
       <item value="set Wrap Text" />
       <item value="set Shrink To Fit" />
       <item value="set Font Height In Points" />
-      <item value="Controls if the Cell should be auto-sized" />
     </histories>
     <option name="languageScores">
       <map>
