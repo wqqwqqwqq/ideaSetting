@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="257" />
-    <option name="newTranslationDialogWidth" value="494" />
+    <option name="newTranslationDialogWidth" value="490" />
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="Jetpack Compose UI Architecture Plugin provides a set of templates that to make the development of new Jetpack Compose features faster.&#10;New Feature Dialog&#10;This dialog allows you to create several files related to Jetpack Compose UI Architecture. After you provide a name for your feature, plugin will generate following:" />
+      <item value="Library for generating package for clean architecture. It generates data, domain, presentation package. It also generates bloc, state and event class for bloc architecture. Usage Instruction: Clean architecture: New-Clean Generator-Enter your required package name Bloc architecture: New-Bloc Class-Enter your bloc class name" />
       <item value="A theme for raccoons and other creatures of the night." />
       <item value="Intelligent History is a research prototype plugin for IntelliJ IDEA that aims to support more efficient exploration of a Java class' commit history by:&#10;Highlighting the commit log for a file to distinguish important commits from less important commits;&#10;Extracting referenced Jira issue keys from commit messages and providing the Jira issue information directly in IntelliJ." />
       <item value="Adds icons for Valve VFX shaders and hlsl.&#10;Will do parsing using a plugin some time.&#10;Copy of https:github.comjonathanlermitageintellij-extra-icons-plugin for the Icon part." />
@@ -53,12 +55,10 @@
       <item value="add Ice Candidate" />
       <item value="peer Connection" />
       <item value="peer Started" />
-      <item value="The remote endpoint was in state [TEXT_FULL_WRITING] which is an invalid state for called method" />
-      <item value="REMINDER CYCLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="204" />
+        <entry key="CHINESE" value="206" />
         <entry key="ENGLISH" value="147" />
         <entry key="GERMAN" value="1" />
       </map>
