@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="Annotation-specified bean name 'xxlSsoConfig' for bean class [io.xxl.sso.config.XxlSsoConfig] conflicts with existing, non-compatible bean definition of same name and class [io.xxl.sso.server.config.XxlSsoConfig]" />
       <item value="Unable to validate object" />
       <item value="Jetpack Compose UI Architecture Plugin provides a set of templates that to make the development of new Jetpack Compose features faster.&#10;New Feature Dialog&#10;This dialog allows you to create several files related to Jetpack Compose UI Architecture. After you provide a name for your feature, plugin will generate following:" />
       <item value="Library for generating package for clean architecture. It generates data, domain, presentation package. It also generates bloc, state and event class for bloc architecture. Usage Instruction: Clean architecture: New-Clean Generator-Enter your required package name Bloc architecture: New-Bloc Class-Enter your bloc class name" />
@@ -54,12 +55,11 @@
       <item value="playsinline" />
       <item value="send Candidate" />
       <item value="add Ice Candidate" />
-      <item value="peer Connection" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="206" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
