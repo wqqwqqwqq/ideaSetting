@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="&#10;ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console..." />
       <item value="Annotation-specified bean name 'xxlSsoConfig' for bean class [io.xxl.sso.config.XxlSsoConfig] conflicts with existing, non-compatible bean definition of same name and class [io.xxl.sso.server.config.XxlSsoConfig]" />
       <item value="Unable to validate object" />
       <item value="Jetpack Compose UI Architecture Plugin provides a set of templates that to make the development of new Jetpack Compose features faster.&#10;New Feature Dialog&#10;This dialog allows you to create several files related to Jetpack Compose UI Architecture. After you provide a name for your feature, plugin will generate following:" />
@@ -54,12 +55,11 @@
       <item value="A simple signal server written in Golang based on  [socket.io](https:socket.io). Support simple room management and message exchange." />
       <item value="playsinline" />
       <item value="send Candidate" />
-      <item value="add Ice Candidate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="206" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
