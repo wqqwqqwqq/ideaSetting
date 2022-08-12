@@ -1,0 +1,25 @@
+<application>
+  <component name="ColorStorage">
+    <option name="reds">
+      <map>
+        <entry key="app-service" value="12" />
+        <entry key="xxl-sso-core" value="21" />
+        <entry key="xxl-sso-web-sample-springboot" value="210" />
+      </map>
+    </option>
+    <option name="blues">
+      <map>
+        <entry key="app-service" value="18" />
+        <entry key="xxl-sso-core" value="138" />
+        <entry key="xxl-sso-web-sample-springboot" value="62" />
+      </map>
+    </option>
+    <option name="greens">
+      <map>
+        <entry key="app-service" value="77" />
+        <entry key="xxl-sso-core" value="28" />
+        <entry key="xxl-sso-web-sample-springboot" value="187" />
+      </map>
+    </option>
+  </component>
+</application>
