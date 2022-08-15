@@ -5,8 +5,9 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
-      <item value="make xxl-sso user" />
+      <item value="parse Store Key" />
       <item value="make session id" />
+      <item value="make xxl-sso user" />
       <item value="login, store storeKey + cookie sessionId" />
       <item value="return, redirect sessionId" />
       <item value="Traceback (most recent call last):" />
@@ -54,7 +55,6 @@
       <item value="create Answer" />
       <item value="set Local Description" />
       <item value="set Remote Description" />
-      <item value="handle Remote Offer" />
     </histories>
     <option name="languageScores">
       <map>
