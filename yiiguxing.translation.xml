@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="TL stack trace (&quot;~&quot; means nesting-related):&#10;&#9;- Failed at: {username}  [in template &quot;login.html&quot; at line 34, column 51]" />
       <item value="parse Store Key" />
       <item value="make session id" />
       <item value="make xxl-sso user" />
@@ -54,7 +55,6 @@
       <item value="answer" />
       <item value="create Answer" />
       <item value="set Local Description" />
-      <item value="set Remote Description" />
     </histories>
     <option name="languageScores">
       <map>
