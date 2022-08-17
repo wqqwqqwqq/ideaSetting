@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="Replaces file icons with their relevant logo icons&#10;According to their extension (Java, PHP, Ruby...)&#10;According to the framework (Android, NPM, RSpec...)&#10;According to the program used with (Babel, Docker, C" />
+      <item value="number of ahead  behind commits for current branch as status bar widget" />
       <item value="Filter" />
       <item value="seconds" />
       <item value="minite to second" />
@@ -53,12 +55,10 @@
       <item value="Bilibili Live Danmaku Support for IntelliJ-based IDEs. Special thanks to Charlie Jiang." />
       <item value="This is the colorful darcula theme for all ide" />
       <item value="Colorful Darcula editor color scheme for all IntelliJ-based IDEs." />
-      <item value="Shows errors, warnings, and other inspection highlights inline.  Simply install the plugin and inspection descriptions will appear on the right side of the lines. Shown inspection severities are Errors, Warnings, Weak Warnings, Server Problems, Typos, and other inspections from plugins or future IntelliJ versions that have a high enough severity level. Each severity has a different color, with support for both light and dark themes.  The plugin is not customizable outside of the ability to disableenable the plugin without restarting the IDE. If the defaults don't work for you, I would recommend either trying the Inline Error plugin which ca" />
-      <item value="Monokai editor color scheme for all IntelliJ-based IDEs." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="206" />
+        <entry key="CHINESE" value="208" />
         <entry key="ENGLISH" value="151" />
         <entry key="GERMAN" value="1" />
       </map>
