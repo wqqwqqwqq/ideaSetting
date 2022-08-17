@@ -1,0 +1,19 @@
+<application>
+  <component name="cn.xeblog.xechat.data">
+    <option name="historyCommandList">
+      <list>
+        <option value="#login {你的昵称}" />
+        <option value="#exit" />
+        <option value="#login {wqq}" />
+        <option value="#play" />
+        <option value="#showGame" />
+        <option value="#play 0" />
+        <option value="#exit" />
+      </list>
+    </option>
+    <option name="readConfig">
+      <ReadConfig />
+    </option>
+    <option name="username" value="{wqq}" />
+  </component>
+</application>
