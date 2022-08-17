@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="508" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="警情" />
       <item value="cert" />
       <item value="Replaces file icons with their relevant logo icons&#10;According to their extension (Java, PHP, Ruby...)&#10;According to the framework (Android, NPM, RSpec...)&#10;According to the program used with (Babel, Docker, C" />
       <item value="number of ahead  behind commits for current branch as status bar widget" />
@@ -54,12 +55,11 @@
       <item value="Only one difference between rookie and big god IDE Plugin, what to do when you do n’t understand English comments? When you don't understand API What about documents? What to do when you are still bothering with standard naming? Download it now!" />
       <item value="Batch weave &quot;x.set (y.get)&quot; code into the selected objects to help developers automatically generate vo2dto conversion code. github：https:github.comfuzhengweivo2dto video：https:youtu.beHOlNi2b0oXI Bilibili：https:www.bilibili.comvideoBV13Y411h7fv help doc：https:github.comfuzhengweivo2dtowiki &#10;Usage: copy the object first, for example: A, a, and then place the cursor on the object to be woven, for example: B, b Generate -&gt; vo2dto&#10;Usage scenarios: for some scenarios that are not suitable for using mapstruct to write mapping classes and do not want a lot of handwritten conversion code&#10;Usage reminder: by detecting @ data annotation, integrate Lombok generation strategy, or create get and set methods" />
       <item value="Bilibili Live Danmaku Support for IntelliJ-based IDEs. Special thanks to Charlie Jiang." />
-      <item value="This is the colorful darcula theme for all ide" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
