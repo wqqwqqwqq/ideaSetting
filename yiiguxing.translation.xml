@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="508" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="ne" />
       <item value="is Empty If Str" />
       <item value="Parameter 'treePath' not found. Available parameters are [ew, page, param1, param2]" />
       <item value="police norm" />
@@ -54,7 +55,6 @@
       <item value="View styled pandas DataFrames when debugging.  Apply conditional formatting and visual styling in your Python code, by using DataFrame.style. The configured style is used to render a styled output of the DataFrame.  How does it work  For more information about styling a DataFrame: pandas" />
       <item value="Panda Android Coding Guidelines plugin support." />
       <item value="Panda Progress bar is plugin for IJ baSED IDEs, This plugin is an adaptation from Nyan Progress Bar. All credits go to batya239 the creator of Nyan Progress Bar" />
-      <item value="This is a pitch dark high-contrast Monokai theme for IntelliJ 2019.1+. Based on xndlnk-monokai 2.2. It's useful for small, crappy monitors with bad contrast ratio: - black is black, not grey - uses a small font" />
     </histories>
     <option name="languageScores">
       <map>
