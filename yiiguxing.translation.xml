@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="508" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="is Empty If Str" />
       <item value="Parameter 'treePath' not found. Available parameters are [ew, page, param1, param2]" />
       <item value="police norm" />
       <item value="警情" />
@@ -54,7 +55,6 @@
       <item value="Panda Android Coding Guidelines plugin support." />
       <item value="Panda Progress bar is plugin for IJ baSED IDEs, This plugin is an adaptation from Nyan Progress Bar. All credits go to batya239 the creator of Nyan Progress Bar" />
       <item value="This is a pitch dark high-contrast Monokai theme for IntelliJ 2019.1+. Based on xndlnk-monokai 2.2. It's useful for small, crappy monitors with bad contrast ratio: - black is black, not grey - uses a small font" />
-      <item value="Only one difference between rookie and big god IDE Plugin, what to do when you do n’t understand English comments? When you don't understand API What about documents? What to do when you are still bothering with standard naming? Download it now!" />
     </histories>
     <option name="languageScores">
       <map>
