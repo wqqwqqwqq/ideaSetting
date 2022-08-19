@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="508" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="in Safekeeping Unit" />
+      <item value="get Authorities" />
       <item value="parameter Type" />
       <item value="ne" />
       <item value="is Empty If Str" />
@@ -53,8 +55,6 @@
       <item value="Ayu Dark Colorscheme for IntelliJ Product (Go Programming Language)" />
       <item value="This plugins contains personal favorites and the famous vscode themes. Themes included in this plugin:" />
       <item value="A complete ayu Dark color scheme for all of your favorite languages and IDEs. &#10;Features:&#10;100% coverage of bundled languages  minor colors in majority of JetBrains IDEs (IntelliJ, WebStorm, Rider etc.)&#10;Supports most popular third-party plugins (e.g. Rainbow Brackets)&#10;Nearly follows existing schemes of ST4 (official) and VSCode" />
-      <item value="View styled pandas DataFrames when debugging.  Apply conditional formatting and visual styling in your Python code, by using DataFrame.style. The configured style is used to render a styled output of the DataFrame.  How does it work  For more information about styling a DataFrame: pandas" />
-      <item value="Panda Android Coding Guidelines plugin support." />
     </histories>
     <option name="languageScores">
       <map>
