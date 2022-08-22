@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="508" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="is Not Blank" />
       <item value="customize Status" />
       <item value="is Blank If Str" />
       <item value="template might not exist or might not be accessible by any of the configured Template Resolvers" />
@@ -54,7 +55,6 @@
       <item value="A IntelliJ plugin that sets a single image or slideshow of images as the background." />
       <item value="Plugin that loads a background image into editors" />
       <item value="Set the editor background to a random picture from a folder." />
-      <item value="Sensei is a highly customizable IDE plugin to scan and fix vulnerable code as you type - with hundreds of downloadable secure coding recipes (rules) as well as an in-built ability to craft your own.&#10;Supported languages: Java, XML&#10;Developed for developers by developers, it enables you to:&#10;Instantly transform bad code to good code with expert recipes written by Secure Code Warrior’s in-house secure coding developers and architects - with years of collective experience in cybersecurity&#10;Release code faster as you do not need to wait for scans to finish or issues to surface during code review or pull requests" />
     </histories>
     <option name="languageScores">
       <map>
