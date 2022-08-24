@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="508" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="pop" />
       <item value="dict Code To Value Render Color" />
       <item value="is Not Blank" />
       <item value="customize Status" />
@@ -54,7 +55,6 @@
       <item value="This is a joke that refers to a similar one by GitHub." />
       <item value="This plugin replaces IntelliJ progressbars with little animated colorful dragons. The dragon colors and progressbar colors are fully customizeable in the settings menu to any arbitrary color." />
       <item value="A IntelliJ plugin that sets a single image or slideshow of images as the background." />
-      <item value="Plugin that loads a background image into editors" />
     </histories>
     <option name="languageScores">
       <map>
