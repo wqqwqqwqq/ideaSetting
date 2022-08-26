@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="508" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="smap Point" />
       <item value="pop" />
       <item value="dict Code To Value Render Color" />
       <item value="is Not Blank" />
@@ -54,7 +55,6 @@
       <item value="Shows errors, warnings, and other inspection highlights inline.  Simply install the plugin and inspection descriptions will appear on the right side of the lines. Shown inspection severities are Errors, Warnings, Weak Warnings, Server Problems, Typos, and other inspections from plugins or future IntelliJ versions that have a high enough severity level. Each severity has a different color, with support for both light and dark themes." />
       <item value="This is a joke that refers to a similar one by GitHub." />
       <item value="This plugin replaces IntelliJ progressbars with little animated colorful dragons. The dragon colors and progressbar colors are fully customizeable in the settings menu to any arbitrary color." />
-      <item value="A IntelliJ plugin that sets a single image or slideshow of images as the background." />
     </histories>
     <option name="languageScores">
       <map>
