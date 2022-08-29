@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="508" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="druid" />
+      <item value="[WARNING] The POM for com.alibaba:druid:jar:1.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details&#10;" />
       <item value="smap Point" />
       <item value="pop" />
       <item value="dict Code To Value Render Color" />
@@ -53,8 +55,6 @@
       <item value="Intelligent History is a research prototype plugin for IntelliJ IDEA that aims to support more efficient exploration of a Java class' commit history by:&#10;Highlighting the commit log for a file to distinguish important commits from less important commits;&#10;Extracting referenced Jira issue keys from commit messages and providing the Jira issue information directly in IntelliJ." />
       <item value="Adds icons for Valve VFX shaders and hlsl.&#10;Will do parsing using a plugin some time.&#10;Copy of https:github.comjonathanlermitageintellij-extra-icons-plugin for the Icon part." />
       <item value="Shows errors, warnings, and other inspection highlights inline.  Simply install the plugin and inspection descriptions will appear on the right side of the lines. Shown inspection severities are Errors, Warnings, Weak Warnings, Server Problems, Typos, and other inspections from plugins or future IntelliJ versions that have a high enough severity level. Each severity has a different color, with support for both light and dark themes." />
-      <item value="This is a joke that refers to a similar one by GitHub." />
-      <item value="This plugin replaces IntelliJ progressbars with little animated colorful dragons. The dragon colors and progressbar colors are fully customizeable in the settings menu to any arbitrary color." />
     </histories>
     <option name="languageScores">
       <map>
