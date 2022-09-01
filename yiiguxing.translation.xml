@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="257" />
-    <option name="newTranslationDialogWidth" value="488" />
+    <option name="newTranslationDialogWidth" value="486" />
     <option name="newTranslationDialogX" value="508" />
     <option name="newTranslationDialogY" value="422" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="port" />
+      <item value="下载安装" />
+      <item value="freemarker" />
+      <item value="access Key" />
+      <item value="&#10;2022-09-01 09:41:41 JRebel:  Over the last 30 days JRebel prevented&#10;2022-09-01 09:41:41 JRebel:  at least 298 redeploysrestarts saving you about 12.1 hours.&#10;2022-09-01 09:41:41 JRebel:  &#10;2022-09-01 09:41:41 JRebel:  Over the last 200 days JRebel prevented" />
       <item value="An attempt was made to call a method that does not exist. The attempt was made from the following location:" />
       <item value="Correct the classpath of your application so that it contains compatible versions of the classes org.springframework.cloud.openfeign.annotation.QueryMapParameterProcessor and feign.MethodMetadata&#10;" />
       <item value="The called method's class hierarchy was loaded from the following locations:" />
@@ -50,16 +56,11 @@
       <item value="return, redirect sessionId" />
       <item value="Traceback (most recent call last):" />
       <item value="if Remember" />
-      <item value="&#10;ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console..." />
-      <item value="Annotation-specified bean name 'xxlSsoConfig' for bean class [io.xxl.sso.config.XxlSsoConfig] conflicts with existing, non-compatible bean definition of same name and class [io.xxl.sso.server.config.XxlSsoConfig]" />
-      <item value="Unable to validate object" />
-      <item value="Jetpack Compose UI Architecture Plugin provides a set of templates that to make the development of new Jetpack Compose features faster.&#10;New Feature Dialog&#10;This dialog allows you to create several files related to Jetpack Compose UI Architecture. After you provide a name for your feature, plugin will generate following:" />
-      <item value="Library for generating package for clean architecture. It generates data, domain, presentation package. It also generates bloc, state and event class for bloc architecture. Usage Instruction: Clean architecture: New-Clean Generator-Enter your required package name Bloc architecture: New-Bloc Class-Enter your bloc class name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="CHINESE" value="214" />
+        <entry key="ENGLISH" value="157" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
@@ -70,12 +71,17 @@
   <component name="Settings">
     <option name="aliTranslateSettings">
       <app-key>
-        <option name="appId" value="LTAI5tG4FQD7W2HgToiq6Qqz" />
+        <option name="appId" value="LTAI5tPLPFkUw6dqvpgkvMJp" />
       </app-key>
     </option>
     <option name="foldOriginal" value="true" />
     <option name="keepFormat" value="true" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="ALI" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="279cb798e8975b12" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
