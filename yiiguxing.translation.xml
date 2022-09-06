@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="257" />
-    <option name="newTranslationDialogWidth" value="486" />
+    <option name="newTranslationDialogWidth" value="484" />
     <option name="newTranslationDialogX" value="508" />
     <option name="newTranslationDialogY" value="422" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Constructor without parameters is already defined " />
       <item value="Authorization Attribute Source Advisor" />
       <item value="set Credentials Matcher" />
       <item value="remember Me" />
@@ -55,7 +56,6 @@
       <item value="phone" />
       <item value="Minite" />
       <item value="TL stack trace (&quot;~&quot; means nesting-related):&#10;&#9;- Failed at: {username}  [in template &quot;login.html&quot; at line 34, column 51]" />
-      <item value="parse Store Key" />
     </histories>
     <option name="languageScores">
       <map>
