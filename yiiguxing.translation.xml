@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="422" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Credentials Matcher" />
       <item value="remember Me" />
       <item value="TYPE SHADAI" />
       <item value="Data too long for column 'content' at row 1" />
@@ -55,12 +56,11 @@
       <item value="TL stack trace (&quot;~&quot; means nesting-related):&#10;&#9;- Failed at: {username}  [in template &quot;login.html&quot; at line 34, column 51]" />
       <item value="parse Store Key" />
       <item value="make session id" />
-      <item value="make xxl-sso user" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="161" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
