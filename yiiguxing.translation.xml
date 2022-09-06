@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="422" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="remember Me" />
       <item value="TYPE SHADAI" />
       <item value="Data too long for column 'content' at row 1" />
       <item value="Humiture Utils" />
@@ -55,12 +56,11 @@
       <item value="parse Store Key" />
       <item value="make session id" />
       <item value="make xxl-sso user" />
-      <item value="login, store storeKey + cookie sessionId" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="160" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
