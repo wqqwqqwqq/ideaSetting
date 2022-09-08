@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="257" />
-    <option name="newTranslationDialogWidth" value="484" />
+    <option name="newTranslationDialogWidth" value="482" />
     <option name="newTranslationDialogX" value="508" />
     <option name="newTranslationDialogY" value="422" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Feature: added support for IntelliJ IDEA 2022.2.0.&#10;Bug fix: fixed a startup issue with IntelliJ IDEA and WebLogic where the IDE gets stuck while opening a project configured using WebLogic deployment and the Java home of WebLogic is corrupt." />
       <item value="Constructor without parameters is already defined " />
       <item value="Authorization Attribute Source Advisor" />
       <item value="set Credentials Matcher" />
@@ -55,7 +56,6 @@
       <item value="expire Fresh Time" />
       <item value="phone" />
       <item value="Minite" />
-      <item value="TL stack trace (&quot;~&quot; means nesting-related):&#10;&#9;- Failed at: {username}  [in template &quot;login.html&quot; at line 34, column 51]" />
     </histories>
     <option name="languageScores">
       <map>
