@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="257" />
-    <option name="newTranslationDialogWidth" value="482" />
+    <option name="newTranslationDialogWidth" value="480" />
     <option name="newTranslationDialogX" value="508" />
     <option name="newTranslationDialogY" value="422" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="October" />
+      <item value="September" />
+      <item value="With the plugin for the R language, you can perform various statistical computing and enjoy your favorite features of the integrated development environment:&#10;Coding assistance:&#10;Error and syntax highlighting.&#10;Code completion.&#10;Intention actions and quick fixes.&#10;Smart editing and auto-saving changes in your R files. Supported formats:&#10;R Script&#10;R Markdown" />
       <item value="count month" />
       <item value="equip Number By Entered" />
       <item value=" io.app.modules.alert.dao.AlertResourceDao.insert (batch index 1) failed. Cause: java.sql.BatchUpdateException: Duplicate entry '1572415264897060866' for key 'alert_resource.PRIMARY'&#10;; Duplicate entry '1572415264897060866' for key 'alert_resource.PRIMARY'; nested exception is java.sql.BatchUpdateException: Duplicate entry '1572415264897060866' for key 'alert_resource.PRIMARY'" />
@@ -53,9 +56,6 @@
       <item value="police norm" />
       <item value="警情" />
       <item value="cert" />
-      <item value="Replaces file icons with their relevant logo icons&#10;According to their extension (Java, PHP, Ruby...)&#10;According to the framework (Android, NPM, RSpec...)&#10;According to the program used with (Babel, Docker, C" />
-      <item value="number of ahead  behind commits for current branch as status bar widget" />
-      <item value="Filter" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663552314260" />
+    <option name="lastTrimTime" value="1664037506214" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">

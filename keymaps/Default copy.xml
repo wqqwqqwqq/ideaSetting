@@ -13,6 +13,7 @@
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="ChangesView.SetDefault" />
   <action id="ChangesView.ShelveSilently" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.EditValue">
