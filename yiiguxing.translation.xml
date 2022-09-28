@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="422" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Violation Count VO" />
       <item value="October" />
       <item value="September" />
       <item value="With the plugin for the R language, you can perform various statistical computing and enjoy your favorite features of the integrated development environment:&#10;Coding assistance:&#10;Error and syntax highlighting.&#10;Code completion.&#10;Intention actions and quick fixes.&#10;Smart editing and auto-saving changes in your R files. Supported formats:&#10;R Script&#10;R Markdown" />
@@ -55,12 +56,11 @@
       <item value="Parameter 'treePath' not found. Available parameters are [ew, page, param1, param2]" />
       <item value="police norm" />
       <item value="警情" />
-      <item value="cert" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="231" />
+        <entry key="ENGLISH" value="173" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
