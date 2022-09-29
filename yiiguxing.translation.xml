@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="422" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Error resolving template [modulesequipstatismodulesequipstatisequip-out-table], template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="Violation Count VO" />
       <item value="October" />
       <item value="September" />
@@ -55,12 +56,11 @@
       <item value="is Empty If Str" />
       <item value="Parameter 'treePath' not found. Available parameters are [ew, page, param1, param2]" />
       <item value="police norm" />
-      <item value="警情" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="173" />
+        <entry key="CHINESE" value="232" />
+        <entry key="ENGLISH" value="174" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
