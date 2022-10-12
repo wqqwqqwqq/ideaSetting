@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="422" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ATTENDANCE TYPE FOUR" />
       <item value="align" />
       <item value="Cannot deserialize value of type `java.lang.Long` from String &quot;success&quot;: not a valid `java.lang.Long` value&#10; at [Source: (org.springframework.util.StreamUtilsNonClosingInputStream); line: 1, column: 14662] (through reference chain: io.app.modules.alert.entity.AlertPlanEntity[&quot;commandList&quot;]-&gt;java.util.ArrayList[0]-&gt;io.app.modules.alert.entity.AlertCommandEntity[&quot;id&quot;])" />
       <item value="Data truncated for column 'id' at row 1" />
@@ -55,12 +56,11 @@
       <item value="nested exception is org.apache.ibatis.builder.BuilderException: The expression 'params.safekeepingDepts' evaluated to a null value." />
       <item value="in Safekeeping Unit" />
       <item value="get Authorities" />
-      <item value="parameter Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="CHINESE" value="237" />
+        <entry key="ENGLISH" value="179" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
