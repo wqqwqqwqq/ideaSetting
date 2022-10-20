@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="257" />
-    <option name="newTranslationDialogWidth" value="478" />
+    <option name="newTranslationDialogWidth" value="476" />
     <option name="newTranslationDialogX" value="508" />
     <option name="newTranslationDialogY" value="422" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="You asked - we listened. Tabnine trial is now available! You can now try Tabnine Pro for 14 days for free!" />
       <item value="month" />
       <item value="Parameter index out of range (6 &gt; number of parameters, which is 5)." />
       <item value=" nested exception is org.apache.ibatis.type.TypeException: Could not set parameters for mapping: ParameterMapping{property='ew.deptId', mode=IN, javaType=class java.lang.Object, jdbcType=null, numericScale=null, resultMapId='null', jdbcTypeName='null', expression='null'}. Cause: org.apache.ibatis.type.TypeException: Error setting non null for parameter 6 with JdbcType null . Try setting a different JdbcType for this parameter or a different configuration property. Cause: org.apache.ibatis.type.TypeException: Error setting non null for parameter 6 with JdbcType null . Try setting a different JdbcType for this parameter or a different configuration property. Cause: java.sql.SQLException: Parameter index out of range (6 &gt; number of parameters, which is 5)." />
@@ -55,7 +56,6 @@
       <item value="&#10;2022-09-01 09:41:41 JRebel:  Over the last 30 days JRebel prevented&#10;2022-09-01 09:41:41 JRebel:  at least 298 redeploysrestarts saving you about 12.1 hours.&#10;2022-09-01 09:41:41 JRebel:  &#10;2022-09-01 09:41:41 JRebel:  Over the last 200 days JRebel prevented" />
       <item value="Correct the classpath of your application so that it contains compatible versions of the classes org.springframework.cloud.openfeign.annotation.QueryMapParameterProcessor and feign.MethodMetadata&#10;" />
       <item value="The called method's class hierarchy was loaded from the following locations:" />
-      <item value="The called method's class, feign.MethodMetadata, is available from the following locations:" />
     </histories>
     <option name="languageScores">
       <map>
