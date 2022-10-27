@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="422" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Error setting non null for parameter 3 with JdbcType TIMESTAMP " />
+      <item value=" nested exception is org.apache.ibatis.type.TypeException: Could not set parameters for mapping: ParameterMapping{property='ew.endTime', mode=IN, javaType=class java.lang.Object, jdbcType=TIMESTAMP, numericScale=null, resultMapId='null', jdbcTypeName='null', expression='null'}. Cause: org.apache.ibatis.type.TypeException: Error setting non null for parameter 4 with JdbcType TIMESTAMP . Try setting a different JdbcType for this parameter or a different configuration property. Cause: org.apache.ibatis.type.TypeException: Error setting non null for parameter 4 with JdbcType TIMESTAMP . Try setting a different JdbcType for this parameter or a different configuration property. Cause: java.sql.SQLException: Parameter index out of range (4 &gt; number of parameters, which is 3).&#10;" />
+      <item value=": Could not set parameters for mapping: ParameterMapping{property='ew.endTime', mode=IN, javaType=class java.lang.Object, jdbcType=null, numericScale=null, resultMapId='null', jdbcTypeName='null', expression='null'}. Cause: org.apache.ibatis.type.TypeException: Error setting non null for parameter 4 with JdbcType null . Try setting a different JdbcType for this parameter or a different configuration property. Cause: org.apache.ibatis.type.TypeException: Error setting non null for parameter 4 with JdbcType null . Try setting a different JdbcType for this parameter or a different configuration property. Cause: java.sql.SQLException: Parameter index out of range (4 &gt; number of parameters, which is 3)." />
+      <item value="No enum constant org.apache.ibatis.type.JdbcType.TEXT" />
+      <item value="nested exception is org.apache.ibatis.builder.BuilderException: Error resolving JdbcType. Cause: java.lang.IllegalArgumentException: No enum constant org.apache.ibatis.type.JdbcType.DATETIME" />
       <item value="Could not set parameters for mapping: ParameterMapping{property='ew.endTime', mode=IN, javaType=class java.lang.Object, jdbcType=null, numericScale=null, resultMapId='null', jdbcTypeName='null', expression='null'}. Cause: org.apache.ibatis.type.TypeException: Error setting non null for parameter 4 with JdbcType null . Try setting a different JdbcType for this parameter or a different configuration property. Cause: org.apache.ibatis.type.TypeException: Error setting non null for parameter 4 with JdbcType null . Try setting a different JdbcType for this parameter or a different configuration property. Cause: java.sql.SQLException: Parameter index out of range (4 &gt; number of parameters, which is 3)." />
       <item value="Error setting non null for parameter 4 with JdbcType null . Try setting a different JdbcType for this parameter or a different configuration" />
       <item value=" Parameter index out of range (4 &gt; number of parameters, which is 3)." />
@@ -51,16 +56,11 @@
       <item value="Constructor without parameters is already defined " />
       <item value="Authorization Attribute Source Advisor" />
       <item value="set Credentials Matcher" />
-      <item value="remember Me" />
-      <item value="TYPE SHADAI" />
-      <item value="Data too long for column 'content' at row 1" />
-      <item value="Humiture Utils" />
-      <item value="port" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="258" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="CHINESE" value="263" />
+        <entry key="ENGLISH" value="205" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
