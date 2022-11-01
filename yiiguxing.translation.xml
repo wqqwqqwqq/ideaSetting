@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="422" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Date Time Format" />
       <item value="is Blank If Str" />
       <item value="summarizing Int" />
       <item value="Error setting non null for parameter 3 with JdbcType TIMESTAMP " />
@@ -55,12 +56,11 @@
       <item value=" [ERROR] Some problems were encountered while processing the POMs:&#10;[ERROR] Non-resolvable import POM: cn.iocoder.boot:yudao-dependencies:pom:1.6.4-snapshot was not found in https:maven.aliyun.comnexuscontentgroupspublic during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of public has elapsed or updates are forced @ cn.iocoder.boot:yudao:{revision}, D:\work-file\ruoyi-vue-pro\pom.xml, line 45, column 25" />
       <item value="Error Response Exception" />
       <item value="Feature: added support for IntelliJ IDEA 2022.2.0.&#10;Bug fix: fixed a startup issue with IntelliJ IDEA and WebLogic where the IDE gets stuck while opening a project configured using WebLogic deployment and the Java home of WebLogic is corrupt." />
-      <item value="Constructor without parameters is already defined " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="265" />
-        <entry key="ENGLISH" value="207" />
+        <entry key="CHINESE" value="266" />
+        <entry key="ENGLISH" value="208" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
