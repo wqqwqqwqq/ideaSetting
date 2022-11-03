@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="422" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Error querying database.  Cause: java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2&#10; The error may exist in ioappmodulesprocessdaoProcessDao.java (best guess)&#10; The error may involve io.app.modules.process.dao.ProcessDao.typeStatistics&#10; The error occurred while handling results" />
+      <item value="error occurred while handling results" />
+      <item value=" Index 2 out of bounds for length 2" />
       <item value="list Map.contains Key(o.get Code())" />
       <item value="is Blank If Str" />
       <item value="Date Time Format" />
@@ -53,14 +56,11 @@
       <item value=" Failures: &#10;[ERROR]   DataPermissionDatabaseInterceptorTest.testBeforeQuery_withMatchRule:89 &#10;Argument(s) are different! Wanted:&#10;mPBoundSql.sql(&#10;    &quot;SELECT  FROM t_user WHERE id = 1 AND dept_id = 100&quot;&#10;);" />
       <item value="Please refer to D:\work-file\ruoyi-vue-pro\yudao-framework\yudao-spring-boot-starter-biz-data-permission\target\surefire-reports for the individual test results.&#10;Please refer to dump files (if any exist) [date].dump, [date]-jvmRun[N].dump and [date].dumpstream.&#10;" />
       <item value=" To see the full stack trace of the errors, re-run Maven with the -e switch.&#10;[ERROR] Re-run Maven using the -X switch to enable full debug logging." />
-      <item value="For more information about the errors and possible solutions, please read the following articles:&#10;[ERROR] [Help 1] http:cwiki.apache.orgconfluencedisplayMAVENProjectBuildingException&#10;[ERROR] [Help 2] http:cwiki.apache.orgconfluencedisplayMAVENUnresolvableModelException&#10;" />
-      <item value=" [ERROR] Some problems were encountered while processing the POMs:&#10;[ERROR] Non-resolvable import POM: cn.iocoder.boot:yudao-dependencies:pom:1.6.4-snapshot was not found in https:maven.aliyun.comnexuscontentgroupspublic during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of public has elapsed or updates are forced @ cn.iocoder.boot:yudao:{revision}, D:\work-file\ruoyi-vue-pro\pom.xml, line 45, column 25" />
-      <item value="Error Response Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="268" />
-        <entry key="ENGLISH" value="210" />
+        <entry key="CHINESE" value="271" />
+        <entry key="ENGLISH" value="213" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
