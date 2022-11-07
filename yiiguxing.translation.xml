@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="422" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="at least 339 redeploysrestarts saving you about 13.7 hours." />
+      <item value="Over the last 30 days JRebel prevented" />
+      <item value="prevented" />
+      <item value="J Rebel" />
       <item value="format Between" />
       <item value="Error querying database.  Cause: java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2&#10; The error may exist in ioappmodulesprocessdaoProcessDao.java (best guess)&#10; The error may involve io.app.modules.process.dao.ProcessDao.typeStatistics&#10; The error occurred while handling results" />
       <item value="error occurred while handling results" />
@@ -52,22 +56,18 @@
       <item value="With the plugin for the R language, you can perform various statistical computing and enjoy your favorite features of the integrated development environment:&#10;Coding assistance:&#10;Error and syntax highlighting.&#10;Code completion.&#10;Intention actions and quick fixes.&#10;Smart editing and auto-saving changes in your R files. Supported formats:&#10;R Script&#10;R Markdown" />
       <item value="count month" />
       <item value="equip Number By Entered" />
-      <item value=" io.app.modules.alert.dao.AlertResourceDao.insert (batch index 1) failed. Cause: java.sql.BatchUpdateException: Duplicate entry '1572415264897060866' for key 'alert_resource.PRIMARY'&#10;; Duplicate entry '1572415264897060866' for key 'alert_resource.PRIMARY'; nested exception is java.sql.BatchUpdateException: Duplicate entry '1572415264897060866' for key 'alert_resource.PRIMARY'" />
-      <item value="&#10;      Constructor that takes in a single 'primary' principal of the account, its corresponding hashed credentials,&#10;      the salt used to hash the credentials, and the name of the realm to associate with the principals.&#10;      &lt;p&gt;&#10;      This is a convenience constructor and will construct a {@link PrincipalCollection PrincipalCollection} based&#10;      on the &lt;code&gt;principal&lt;code&gt; and &lt;code&gt;realmName&lt;code&gt; argument.&#10;     &#10;      @param principal         the 'primary' principal associated with the specified realm.&#10;      @param hashedCredentials the hashed credentials that verify the given principal.&#10;      @param credentialsSalt   the salt used when hashing the given hashedCredentials&#10;      @param realmName         the realm from where the principal and credentials were acquired.&#10;      @see org.apache.shiro.authc.credential.HashedCredentialsMatcher HashedCredentialsMatcher&#10;      @since 1.1&#10;     " />
-      <item value=" Failures: &#10;[ERROR]   DataPermissionDatabaseInterceptorTest.testBeforeQuery_withMatchRule:89 &#10;Argument(s) are different! Wanted:&#10;mPBoundSql.sql(&#10;    &quot;SELECT  FROM t_user WHERE id = 1 AND dept_id = 100&quot;&#10;);" />
-      <item value="Please refer to D:\work-file\ruoyi-vue-pro\yudao-framework\yudao-spring-boot-starter-biz-data-permission\target\surefire-reports for the individual test results.&#10;Please refer to dump files (if any exist) [date].dump, [date]-jvmRun[N].dump and [date].dumpstream.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="272" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="CHINESE" value="276" />
+        <entry key="ENGLISH" value="218" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667179529616" />
+    <option name="lastTrimTime" value="1667803620724" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
