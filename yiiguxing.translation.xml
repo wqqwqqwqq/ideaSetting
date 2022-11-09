@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="422" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="un Expand All" />
       <item value="unusual" />
       <item value="at least 339 redeploysrestarts saving you about 13.7 hours." />
       <item value="Over the last 30 days JRebel prevented" />
@@ -55,12 +56,11 @@
       <item value="October" />
       <item value="September" />
       <item value="With the plugin for the R language, you can perform various statistical computing and enjoy your favorite features of the integrated development environment:&#10;Coding assistance:&#10;Error and syntax highlighting.&#10;Code completion.&#10;Intention actions and quick fixes.&#10;Smart editing and auto-saving changes in your R files. Supported formats:&#10;R Script&#10;R Markdown" />
-      <item value="count month" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="277" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="CHINESE" value="278" />
+        <entry key="ENGLISH" value="220" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
