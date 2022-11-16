@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="422" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31&#10;&#10;" />
       <item value="uglily" />
       <item value="Integer" />
       <item value="Predicate" />
@@ -55,12 +56,11 @@
       <item value="Correct the classpath of your application so that it contains compatible versions of the classes org.springframework.cloud.openfeign.annotation.QueryMapParameterProcessor and feign.MethodMetadata" />
       <item value="Thread is terminating" />
       <item value=" A channel event listener threw an exception" />
-      <item value="ATTENDANCE TYPE FOUR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="289" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="CHINESE" value="290" />
+        <entry key="ENGLISH" value="232" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
