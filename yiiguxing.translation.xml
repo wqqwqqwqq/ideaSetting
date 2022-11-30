@@ -88,4 +88,21 @@
       </youdao-translate>
     </option>
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1669796919317" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="aliTranslateSettings">
+      <app-key>
+        <option name="appId" value="LTAI5t94yHJmx15YAcMDVqb7" />
+      </app-key>
+    </option>
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="ALI" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="order num" />
+    </histories>
+  </component>
 </application>
