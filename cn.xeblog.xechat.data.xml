@@ -9,6 +9,9 @@
         <option value="#showGame" />
         <option value="#play 0" />
         <option value="#exit" />
+        <option value="#play" />
+        <option value="#showGame" />
+        <option value="#play 0" />
       </list>
     </option>
     <option name="readConfig">
