@@ -102,6 +102,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="downstream" />
       <item value="Maven project structure changed to Bazel project structure: To use the Maven2Bazel, select Tools &gt; Maven2Bazel" />
       <item value="order num" />
     </histories>
